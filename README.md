@@ -22,7 +22,7 @@ Transfer fees are huge and noisy. A club's scouting team can't watch every playe
 | Step | What I did | Why |
 |---|---|---|
 | Data | Player performance and career metrics across top European leagues | One consistent view of players across competitions |
-| Feature engineering | **Log-transformed** skewed features, including market value | A few superstar valuations dominate the raw scale |
+| Feature engineering | **Log-transformed** skewed features | A few superstar valuations dominate the raw scale |
 | Rebalancing | **SMOTE** to rebalance under-represented groups in the training data | Keeps the model from only learning the common cases |
 | Models | **Gradient Boosting**, tested against linear baselines | Captures non-linear effects that linear models miss |
 | Scouting output | Ranked players where model value is clearly above market value | Turns predictions into a shortlist a scout can use |
