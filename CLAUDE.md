@@ -10,6 +10,7 @@ Claude: read this file, then `notes/`, at the start of every session.
 - Open item: add the code/notebook so the results are reproducible. Ask Hemi where the original work lives before writing anything new.
 
 ## Rules
+- **North star:** Hemi is becoming a consultant / advisor to the sports industry. Frame every output (README, demo, deck, résumé line) as decision → data → logic → recommendation → impact. See https://github.com/Hemanth-55/Tamil-/blob/main/notes/north-star.md
 - Apple-level quality: minimal, professional, clear to a layman at a glance. Speak to tech people, no gimmicks.
 - Never describe projects as done at BU.
 - Never commit secrets, raw licensed data or large media.
